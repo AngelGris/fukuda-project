@@ -40,4 +40,4 @@ Also the *scale* variable can be changed to modify the size of the output image:
 
 In this case a 30px x 30px portion of the original image will be represented by 100px x 100px square in the final image. Making the output image more than 3 times bigger that the original. Input images with great details will require higher values in the output image, and images with low detail level can use smaller values.
 
-The output image will be saved in *images/output*. The example image was generated using a database with more than 7k mosaics (not all of them were used in this particular image).
+The output image will be saved in *images/output*. The example image was generated using a database with more than 7k mosaics (not all of them were used in this particular image). The full size 14,400px x 10,800px image can be found in *images/output*.
