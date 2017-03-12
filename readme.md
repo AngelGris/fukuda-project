@@ -1,7 +1,7 @@
 # Fukuda Project
 ## Mosaic images generator
 
-Fukuda Project takes an image as input and recreates it using other small images as mosaics.
+Fukuda Project takes an image as input and recreates it using other small images as mosaics. It's written in **Python 2** and uses **OpenCV** for images handling.
 
 ### Example
 **Input**
