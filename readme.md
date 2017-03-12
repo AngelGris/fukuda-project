@@ -5,9 +5,11 @@ Fukuda Project takes an image as input and recreates it using other small images
 
 ### Example
 **Input**
+
 ![Input image](https://raw.githubusercontent.com/AngelGris/fukuda-project/master/images/examples/20160906_original.jpg)
 
 **Output**
+
 ![Output image](https://raw.githubusercontent.com/AngelGris/fukuda-project/master/images/examples/20160906_output.jpg)
 
 ### Database
